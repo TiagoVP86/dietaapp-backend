@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#4733ff",
+        "statusBar.debuggingBackground": "#4733ff",
+        "statusBar.noFolderBackground": "#4733ff",
+        "statussBar.prominentBackground": "#4733ff"
+    },
+    "liveServer.settings.port": 5501,
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "prettier.printWidth": 200,
+    "prettier.proseWrap": "never",
+    "prettier.endOfLine":"lf"
+}
